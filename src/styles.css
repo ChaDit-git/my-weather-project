@@ -51,3 +51,8 @@ div.row {
 form {
   text-align: right;
 }
+
+small {
+  box-sizing: border-box;
+  cursor: pointer;
+}
